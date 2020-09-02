@@ -1,3 +1,20 @@
+.bg{
+    background-image: url("/images/cover_image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    color: #ffffff;
+    background-color: #777777;
+}
+
+.cover{
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #000000;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
