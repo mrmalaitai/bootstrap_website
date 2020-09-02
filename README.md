@@ -2,6 +2,12 @@
 
 ![alt text](https://github.com/mrmalaitai/bootstrap_website/blob/master/screenshot.PNG "Screenshot of game")<br>
 
+## Resources:<br>
+[Boostrap website](https://getbootstrap.com/)<br>
+[w3schools (Bootstrap)](https://www.w3schools.com/bootstrap4/default.asp)<br>
+[Shotcut (Video editor)](https://shotcut.org/download/)<br>
+[Audacity (Audio editor)](https://www.audacityteam.org/download/)
+
 # NCEA Standards:
 
 ## 91903 Use complex techniques to develop a digital media outcome (4 credits)
